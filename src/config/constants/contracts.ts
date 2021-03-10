@@ -1,15 +1,15 @@
 export default {
   cake: {
-    97: '0x43acC9A5E94905c7D31415EB410F3E666e5F1e9A',
-    56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+    97: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
+    56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
   },
   syrup: {
     97: '0xfE1e507CeB712BDe086f3579d2c03248b2dB77f9',
     56: '0x009cF7bC57584b7998236eff51b98A168DceA9B0',
   },
   masterChef: {
-    97: '0x1d32c2945C8FDCBc7156c553B7cEa4325a17f4f9',
-    56: '0x73feaa1eE314F8c655E354234017bE2193C9E24E',
+    97: '0x22E1fCaACaFa3c1E6e2C1FFB0021E2AC55142Af8',
+    56: '0x22E1fCaACaFa3c1E6e2C1FFB0021E2AC55142Af8',
   },
   sousChef: {
     97: '0xd3af5fe61dbaf8f73149bfcfa9fb653ff096029a',
