@@ -5,10 +5,10 @@ const pools: PoolConfig[] = [
     sousId: 37,
     tokenName: 'SLM',
     stakingTokenName: QuoteToken.CAKE,
-    stakingTokenAddress: '0x78A68Bb21B6fE1385eaaEf233f07C9d433508128',
+    stakingTokenAddress: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
     contractAddress: {
       97: '',
-      56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
+      56: '0x22E1fCaACaFa3c1E6e2C1FFB0021E2AC55142Af8',
     },
     poolCategory: PoolCategory.CORE,
     projectLink: 'https://salamiswap.xyz/',
