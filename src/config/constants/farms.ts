@@ -22,7 +22,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'SLM-BNB LP',
     lpAddresses: {
       97: '0xe70b7523f4bffa1f2e88d2ba709afd026030f412',
-      56: '0xA527a61703D82139F8a06Bc30097cC9CAA2df5A6',
+      56: '0x0feb9b8d8e17ebd7bf465689305c257bf3fb636a',
     },
     tokenSymbol: 'SLM',
     tokenAddresses: {
