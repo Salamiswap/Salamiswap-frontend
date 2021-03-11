@@ -2,8 +2,23 @@ import contracts from './contracts'
 import { FarmConfig, QuoteToken } from './types'
 
 const farms: FarmConfig[] = [
-  {
+   {
     pid: 0,
+    lpSymbol: 'SLM',
+    lpAddresses: {
+      97: '',
+      56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
+    },
+    tokenSymbol: 'SYRUP',
+    tokenAddresses: {
+      97: '',
+      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+    },
+    quoteTokenSymbol: QuoteToken.BNB,
+    quoteTokenAdresses: contracts.wbnb,
+  },
+  {
+    pid: 1,
     lpSymbol: 'SLM-BNB LP',
     lpAddresses: {
       97: '',
@@ -18,7 +33,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 1,
+    pid: 2,
     lpSymbol: 'BUSD-BNB LP',
     lpAddresses: {
       97: '0x2f7682b64b88149ba3250aee32db712964de5fa9',
@@ -33,7 +48,7 @@ const farms: FarmConfig[] = [
     quoteTokenAdresses: contracts.wbnb,
   },
   {
-    pid: 2,
+    pid: 3,
     lpSymbol: 'USDT-BUSD LP',
     lpAddresses: {
       97: '0xE66790075ad839978fEBa15D4d8bB2b415556a1D',
