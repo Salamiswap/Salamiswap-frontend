@@ -3,6 +3,10 @@ export default {
     97: '',
     56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
   },
+   syrup: {
+    97: '',
+    56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
+  },
   masterChef: {
     97: '',
     56: '0x22E1fCaACaFa3c1E6e2C1FFB0021E2AC55142Af8',
