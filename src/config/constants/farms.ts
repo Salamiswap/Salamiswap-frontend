@@ -12,7 +12,7 @@ const farms: FarmConfig[] = [
     tokenSymbol: 'SYRUP',
     tokenAddresses: {
       97: '',
-      56: '0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82',
+      56: '0xa245a775fa00906c8e816365dfba185979bd53be',
     },
     quoteTokenSymbol: QuoteToken.BNB,
     quoteTokenAdresses: contracts.wbnb,
