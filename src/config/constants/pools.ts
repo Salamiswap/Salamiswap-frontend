@@ -13,7 +13,7 @@ const pools: PoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     projectLink: 'https://salamiswap.xyz/',
     harvest: true,
-    tokenPerBlock: '5',
+    tokenPerBlock: '1',
     sortOrder: 999,
     isFinished: false,
     tokenDecimals: 18,
