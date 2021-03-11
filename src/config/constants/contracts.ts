@@ -1,27 +1,27 @@
 export default {
   cake: {
     97: '',
-    56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
+    56: '0xb87cdf3d5c0984963ac9ab5c08d9225bcb5495bb',
   },
   slm: {
     97: '',
-    56: '0x577b7ef698af98a990c47be44ba5b1eaa49412f3',
+    56: '0xb87cdf3d5c0984963ac9ab5c08d9225bcb5495bb',
   },
    syrup: {
     97: '',
-    56: '0xa245a775fa00906c8e816365dfba185979bd53be',
+    56: '0x40d5d017ff684e0a617dae1a5ecadde4827302c4',
   },
-  gos: {
+  bbq: {
     97: '',
-    56: '0xa245a775fa00906c8e816365dfba185979bd53be',
+    56: '0x40d5d017ff684e0a617dae1a5ecadde4827302c4',
   },
   masterChef: {
     97: '',
-    56: '0x73feaa1eE314F8c655E354234017bE2193C9E24E',
+    56: '0x7D1890Cd59794412c8f2d82e8896a3337B586fB8',
   },
   sousChef: {
     97: '',
-    56: '0x6ab8463a4185b80905e05a9ff80a2d6b714b9e95',
+    56: '0x4F62B0BB9b6C430f27bD4Cfa79a9C388133E8Bc9',
   },
   wbnb: {
     97: '0xae13d989dac2f0debff460ac112a837c89baa7cd',
