@@ -54,6 +54,16 @@ const farms: FarmConfig[] = [
       97: '0xE66790075ad839978fEBa15D4d8bB2b415556a1D',
       56: '0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd',
     },
+    token: tokens.usdt,
+    quoteToken: tokens.busd,
+  },
+  {
+    pid: 4,
+    lpSymbol: 'USDT-BUSD LP',
+    lpAddresses: {
+      97: '0xE66790075ad839978fEBa15D4d8bB2b415556a1D',
+      56: '0xc15fa3E22c912A276550F3E5FE3b0Deb87B55aCd',
+    },
     tokenSymbol: 'USDT',
     tokenAddresses: {
       97: '0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5',
